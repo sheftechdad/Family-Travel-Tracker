@@ -1,4 +1,4 @@
-# 👨‍👩‍👧‍👦 Family Travel Tracker  
+# 👨‍👩‍👧‍👦 Family Travel Tracker.
 
 An enhanced version of the Travel Tracker that allows families to keep track of each member's visited countries individually. This project uses PostgreSQL with inner joins to manage relationships between family members and their travel records.  
 
